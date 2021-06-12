@@ -1,2 +1,2 @@
 # YAYIMINFO
-YAYIMINFO Xəbər Saytı
+YAYIMINFO Xəbər Saytı (Html5,Css3,Javascript)
